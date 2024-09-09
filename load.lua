@@ -14,4 +14,6 @@ local function AddNews(title, description, image, dates)
     table.insert(FGOA.Network.News, news)
 end
 
-AddNews("Test","This is a test of the news system",nil,"09/08/2024")
+AddNews("Test1","This is a test of the news system",nil,"09/08/2024")
+AddNews("Test2","This is a test of the news system",nil,"09/01/2024")
+AddNews("Test3","This is a test of the news system",nil,"05/05/2024")
