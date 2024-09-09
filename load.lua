@@ -14,6 +14,5 @@ local function AddNews(title, description, image, dates)
     table.insert(FGOA.Network.News, news)
 end
 
-AddNews("Test1","This is a test of the news system",nil,"09/08/2024")
-AddNews("Test2","This is a test of the news system",nil,"05/05/2024")
-AddNews("Test3","This is a test of the news system",nil,"09/09/2024")
+AddNews("News System Test: Start","This is the first news system test.",nil,"09/08/2024")
+AddNews("News System Test: Complete","The news system is completely tested! Players can now receive live news feed updates in-game.",nil,"09/09/2024")
