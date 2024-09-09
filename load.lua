@@ -15,5 +15,5 @@ local function AddNews(title, description, image, dates)
 end
 
 AddNews("Test1","This is a test of the news system",nil,"09/08/2024")
-AddNews("Test2","This is a test of the news system",nil,"09/01/2024")
-AddNews("Test3","This is a test of the news system",nil,"05/05/2024")
+AddNews("Test2","This is a test of the news system",nil,"05/05/2024")
+AddNews("Test3","This is a test of the news system",nil,"09/09/2024")
